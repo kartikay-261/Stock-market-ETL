@@ -28,7 +28,7 @@ A comprehensive architecture diagram will be provided, illustrating the flow and
 You can use any dataset for this project as the focus is primarily on the operational side of data engineering, specifically on building the data pipeline.
 
 ### Example Dataset
-- **Stock Market Data**: [indexProcessed.csv](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv)
+- **Stock Market Data**: [indexProcessed.csv](https://github.com/kartikay-261/Stock-market-ETL/blob/main/indexProcessed.csv)
 
 ## Contributing
 
