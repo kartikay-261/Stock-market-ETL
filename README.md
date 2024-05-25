@@ -7,6 +7,7 @@ In this project, you will execute an end-to-end data engineering project focused
 ## Architecture
 
 A comprehensive architecture diagram will be provided, illustrating the flow and interaction of data through various components and services.
+![alt text](https://raw.githubusercontent.com/kartikay-261/Stock-market-ETL/main/Architecture.jpg)
 
 ## Technology Used
 
